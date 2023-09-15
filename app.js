@@ -3,7 +3,7 @@ const _ = require("lodash");
 
 let cooldowns = new Set();
 
-//!çekiliş {{winner}} {{timeout/dk}} {{prize}}
+//!çekiliş {{winner/null}} {{timeout/dk}} {{prize}}
 let config = {
     "username": "xaronbot",
     "oauth": "REDACTED",
