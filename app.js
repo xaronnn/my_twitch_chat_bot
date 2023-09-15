@@ -19,7 +19,7 @@ let config = {
         {
             "moderator_only": false,
             "needle": ["!insta", "!ig", "!instagram", "!ing", "!ins"],
-            "reply": "@{{username}} https://instagram.com/xaron.js"
+            "reply": "@{{username}} https://instagram.com/xaron1337"
         },
         {
             "moderator_only": false,
